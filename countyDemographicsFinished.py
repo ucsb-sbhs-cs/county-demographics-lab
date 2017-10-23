@@ -63,7 +63,7 @@ def state_with_most_counties(counties):
     #Return the state with the most counties
     return state
     
-def you_interesting_demographic_function(counties):
+def your_interesting_demographic_function(counties):
     """Compute and return an interesting fact using the demographic data about the counties in the US."""
 
 if __name__ == '__main__':
